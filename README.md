@@ -10,4 +10,8 @@
 | layer | scrape_layer |
 
 ## 環境変数  
-なし
+| 変数名 | 値 |
+| ---- | ---- |
+| PKEY | scraping-target |
+| SKEY | kakuyomu |
+| TABLE_NAME | control |
